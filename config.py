@@ -1,1 +1,1 @@
-API key: "7ba6817ce56905c937869996d4aabe78"
+api_key : "7ba6817ce56905c937869996d4aabe78"
